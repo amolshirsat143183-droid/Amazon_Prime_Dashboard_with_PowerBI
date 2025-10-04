@@ -106,6 +106,3 @@ Through this project, you will learn to:
 **Amol Shirsat**  
 📊 Data Analyst | Power BI | Excel | SQL | Python  
 
-
-
-## 📁 Project Structure
